@@ -1,16 +1,44 @@
-## Hi there 👋
+# Hi, I'm Yugantar 👋
 
-<!--
-**yugantar-n/yugantar-n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a developer and computer science enthusiast who enjoys building projects, solving problems, and learning how things work.
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💻 Interested in software development and computer science
+- 🧠 Focused on problem solving and strong fundamentals
+- 🐍 Working with Python and exploring different areas of technology
+- 🐧 Interested in Linux and developer tools
+- 🚀 Building projects to learn through real-world experience
+
+## Tech Stack
+
+**Languages**
+- Python
+- C / C++
+
+**Tools & Technologies**
+- Git
+- GitHub
+- Linux
+- VS Code
+
+## What I Do
+
+- Build projects and experiment with new ideas
+- Practice data structures and algorithms
+- Explore programming concepts
+- Learn through hands-on development
+
+## Projects
+
+I use this profile to document my projects, experiments, and learning journey.
+
+→ Check out my repositories to see what I'm building.
+
+## Connect
+
+- GitHub: [@yugantar-n](https://github.com/yugantar-n)
+
+---
+
+⭐ Thanks for visiting my profile!
